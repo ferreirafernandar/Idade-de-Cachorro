@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="cor_texto">#fff</drawable>
+    <drawable name="background_texto">#4FC4D6</drawable>
+</resources>
